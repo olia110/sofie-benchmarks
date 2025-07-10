@@ -1,0 +1,1 @@
+This repository contains benchmark and profiling tests for complex GNN models using TMVA/SOFIE and ONNXRuntime.
