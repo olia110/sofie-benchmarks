@@ -1,5 +1,18 @@
+# Build artifacts
+/build/
 *.o
 *.so
-*.out
+*.d
+*.pcm
+*.dSYM/
+
+# Executables
+run_test
+run_onnx_test
+
+# Generated SOFIE code
 *.hxx
-build/
+*.dat
+
+# Output files
+*.pdf
